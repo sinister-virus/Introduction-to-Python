@@ -3,15 +3,15 @@ files:
 - name: task.py
   visible: true
   placeholders:
-  - offset: 194
-    length: 56
+  - offset: 218
+    length: 33
     placeholder_text: '''Use list comprehension to build the same list as above'''
     initial_state:
       length: 56
       offset: 194
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: Enurdi8KeCpnVRpF37yBmV4QwWBxwsdL6PJudebBPe2WeA5RxW3TFxdHsCMuu4cR
   encrypted_text: t69VPoqDCYHM8hpL6sJvoSsuv/WbZ5eB0IIseWQl05kiaeogMOm7oyiASZkMERdhhYo/XZE9xJ0Ex16WEt2vhX9WkPlo+q73cMmBnWtDGRzjky+0tE3NA9vXhZDEnfGtzc59r1MoWKCU3IsLA7OmYi6W9/Ku5KT8jqGcCmLIInT5XEJtrj3XMMnMYaxzDtCKyqlsIoG5KvSU8kT4aEDe4zS3fLnU6opwOpD2D3qDG7o8snIoSVr0wh8ZtpVWk/SNQHr1T3wEljapclPAnxOaQeqMl5GYi9tplY2pihgnXvl8X5OR34gOpUpwzODc87FUt63alBIQ4cvJhgJA14b9uFAE85yV38e09jcI2gwem5Tkdtz//+Acs3hw7E+DxB3m
   learner_created: false
@@ -28,5 +28,8 @@ files:
   encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Loops+/+List+Comprehension
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Wed, 31 Aug 2022 15:20:01 UTC
 record: -1
