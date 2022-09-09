@@ -3,24 +3,24 @@ files:
 - name: string_formatting.py
   visible: true
   placeholders:
-  - offset: 135
-    length: 2
+  - offset: 129
+    length: 3
     placeholder_text: ???
     initial_state:
       length: 3
       offset: 129
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: pFKTpgDBiCqxfvG+cg8GMw==
-  - offset: 147
-    length: 7
+  - offset: 144
+    length: 5
     placeholder_text: '''???'''
     initial_state:
       length: 5
       offset: 144
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: eD6RWcHwM8xd6MkuqfGFHw==
   encrypted_text: C008tCpVbf2bWeQ85pv9mUazd9ZSWm+15LQsNsNTGkhiQWOfOb7PiOlUMvOumx839a/1kIDBZFexmAo3yy4/1xak+gfbsLyQcu3J1ZrkN+u1oosKCrmreifmhn+RincIbcUNkpOnW7/H14EbmQxHX0d6rf+O9TGUl9Z88tdYxrbewM1OcC84KkehYcx6FPes/FDk8N5S7+IVW+yGU0LQew==
@@ -35,7 +35,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Strings+/+String+Formatting
 status: Solved
-feedback:
-  message: Congratulations!
-  time: Mon, 29 Aug 2022 17:00:45 UTC
 record: -1

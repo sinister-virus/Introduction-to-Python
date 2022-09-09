@@ -4,6 +4,6 @@ def func():
 
 print(f'This is a message from {__name__}.')
 
-# Make a change here.
+# Make a change here (add a main block!)
 print('This should not be printed')
 

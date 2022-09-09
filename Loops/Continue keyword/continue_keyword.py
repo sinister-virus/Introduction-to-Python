@@ -4,6 +4,6 @@ for i in range(5):
     print(i)
 
 for x in range(10):
-    if x%2==0:
-        continue
+    # Add a condition
+        # Add a keyword to skip print(x) for this loop
     print(x)

@@ -10,7 +10,7 @@ files:
       length: 16
       offset: 302
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: yZvKn7xlKMTKLmrTuimqUdoXojbn4lp46SpOe7mlpNGg4x+bS5ppYLhwii2BDEyR
   encrypted_text: ntrWTxybLwWXbhmXy2hxGlzal8HOI2mnYpEHv10/XBWxh/1K5MQ11cDOLXeGUqK8Z5vzJxnuXBTUb9zRgAc/PIbu2Ekkzfnaaj/ENQyHiJ+VFOvMIViFyEGelUf2FY80h8TWAmbP8IGmdwT92Wm6ySqZioml8YdHSMxZhuuqVzbp0WqfbdyJrDFEqQuHmiFC9O/0T+ImkI85xmCmhnSvnqHNBF2RrlmLfqzEyCHnvDTH1Dd6PhS84qZISPdtufmF/pqZLoPjH+v+d8T7OWadjN8ymqahhxCpK0LcJnQxO/wioaGZaUsyb8L/7AGN8/Tbh40xrv8+Zf2FYugqSb+t6R9xRR42yJrSvnXnMf/IMwN1gwKU1kvgnTV/aMoj1JZCkVoH0WpN63BFHFeQxIwaM4MrytHaD/MTDbP5ZD/B81ykt4QYHvThlcYql/Ksc8P2
@@ -25,7 +25,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Data+Structures+/+List+Items
 status: Solved
-feedback:
-  message: Congratulations!
-  time: Tue, 30 Aug 2022 17:31:37 UTC
 record: -1

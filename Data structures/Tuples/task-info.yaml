@@ -4,7 +4,7 @@ files:
   visible: true
   placeholders:
   - offset: 161
-    length: 13
+    length: 3
     placeholder_text: ???
     initial_state:
       length: 3
@@ -13,14 +13,14 @@ files:
     selected: false
     status: Solved
     encrypted_possible_answer: IAk8UB2JaIUIXRXtJ1Qdog==
-  - offset: 189
-    length: 12
+  - offset: 179
+    length: 3
     placeholder_text: ???
     initial_state:
       length: 3
       offset: 179
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: 2WTPq+2yTy3RpoySooYDsQ==
   encrypted_text: u7LI2oWQk7N2ey3Gy/E7UUeddNVLTtiwhAnjIERbPopKZUTBjWRj1sByLYQspfwsMLpG3IfFjCkACgYTE17rjOq1PhYNqUX35X0mX3tjxIi/sLbw5cd2DttElgt2iXL00cyltIcQeiQWvRVyanglzzuLwIoyb6AA3i+jJ2bdSUikDCrYvWNxhQ80gUyGrUNXO07XeiD8AfTWXsT/7c43IbWgM+1V8VlBbhIeidFuG+QvRoZ/cP4SJONvvxf1Cw1k4hK/PRnFAeenui1jzXMcvA==
@@ -35,7 +35,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Data+Structures+/+Tuples
 status: Solved
-feedback:
-  message: Congratulations!
-  time: Tue, 30 Aug 2022 17:37:55 UTC
 record: -1

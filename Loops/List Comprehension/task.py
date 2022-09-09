@@ -1,5 +1,4 @@
 starting_numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-print(starting_numbers)
 my_inefficient_list = []
 
 for i in starting_numbers:
@@ -8,5 +7,5 @@ for i in starting_numbers:
 print(my_inefficient_list)
 
 
-my_efficient_list = [i+10 for i in my_inefficient_list]
+my_efficient_list = ['Use list comprehension to build the same list as above']
 print(my_efficient_list)

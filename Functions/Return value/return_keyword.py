@@ -18,5 +18,5 @@ def fib(n):
         # Restore a variable from the temp
     # here we need to return the result to the caller
 
-
-print(fib(10))
+if __name__ == '__main__':
+    print(fib(10))

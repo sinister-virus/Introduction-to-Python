@@ -3,14 +3,14 @@ files:
 - name: character_escaping.py
   visible: true
   placeholders:
-  - offset: 96
+  - offset: 109
     length: 3
     placeholder_text: ???
     initial_state:
       length: 3
       offset: 109
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: Y6rmg0t3jrwOMa5wkI3OBaIY8xU1+eI3Ylw1GeLgdk0PDkJceSkwnjnAvn3n1eaO
   encrypted_text: GjLICC3lrAJ4R/6p6UawXl63bnu8mHFYBeuBh0JH5LWrrXPJs3o9/U+bcoXGa2EpFyBQ3z9R1jLj4VMA6TpCTv7kX5aApRiFuSRrZdCYgTBZ4SLN6Ej0fiPovYcZiOrV4N7+zNsfT+Ywp23CRh0VNG2s/SqE99nBZg1HHH2txFI=
@@ -25,7 +25,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Strings+/+Character+Escaping
 status: Solved
-feedback:
-  message: Congratulations!
-  time: Mon, 29 Aug 2022 16:50:48 UTC
 record: -1

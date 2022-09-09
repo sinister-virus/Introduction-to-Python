@@ -4,23 +4,23 @@ files:
   visible: true
   placeholders:
   - offset: 121
-    length: 18
+    length: 5
     placeholder_text: '"???"'
     initial_state:
       length: 5
       offset: 121
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: jtgAkkh96OH29tSMm5OPdislabG0yGa/GYKhuz3kqhQ=
-  - offset: 198
-    length: 23
+  - offset: 185
+    length: 5
     placeholder_text: '"???"'
     initial_state:
       length: 5
       offset: 185
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: LrVL9uMKntpgyJrnzVuE6oTmaCLZg3Sus1VKJ8e1jwo=
   encrypted_text: BsnJC/FWTh0puhQakpHCyFn4LDDTR9OqykbSmp7nTdzZJqPBav31O3xQ7igZNmeo5ew02aEuhQo2OrMK+LkqUsQ5My81ox73Uv0BeaxCqWSTJQ4c7LHCfzkniXUD6MoMb6tlPGvZgIsWTYSQ89Kr9FAgygvTqwTOajSkXTrqhyxapgbiBqACy4EAbYi2vTD4iww8tWExDCR0B6J9yPJQbjmuDKpQV+4f5I8cmYu6JdYWIgNFasdOE9BhMI+RS/8fHvo3WZtlTVAO8tVY1948m3FCm+Bg7wA5BBB74c2gDIg3zGUEClis5t4ULxCojuMpORrA9Njk1rmvy8D1aP/IqQ==
@@ -35,7 +35,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Strings+/+String+Length
 status: Solved
-feedback:
-  message: Congratulations!
-  time: Mon, 29 Aug 2022 16:43:40 UTC
 record: -1

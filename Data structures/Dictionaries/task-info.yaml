@@ -13,7 +13,7 @@ files:
     selected: false
     status: Solved
     encrypted_possible_answer: 3kfSkWpsWeLHAbaLKvu8Ok8WEU6eY/kijWuvRz5XD84=
-  - offset: 382
+  - offset: 357
     length: 44
     placeholder_text: '# Remove Gerard''s number from the phone book'
     initial_state:
@@ -23,14 +23,14 @@ files:
     selected: false
     status: Solved
     encrypted_possible_answer: uu6FW1F16pWcrGhiyEWBsjgGemuLhdSxGAmgOEbzfSs=
-  - offset: 477
-    length: 18
+  - offset: 427
+    length: 3
     placeholder_text: ???
     initial_state:
       length: 3
       offset: 427
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: xbtk/88SKjUBTI5/N3MAoilbRXl2EK61C444T4o+haU=
   encrypted_text: xXxk51reS7JOk8bYwyYk97eqyFVCn9fHHsTHOKXZZiEAcbuCVqd+/Ls9318CnCzkbttCTI19DCbx9W8mHmKECacXMWgw4QC9NdbD+NUjO98labrhLZXWhS+CXYD0E8OnNZI4H71OZxiTEjrx8Le7MSJ0Qv3QYV9CxENOZGGeFiRQcemPpLVTp39AME4XjmM2xh+1NzOYh/jG35zfh6DbrTbUrXIE5CsTTdCCRFJkqfQNDgGjQ1t0J5E6Wb2O1DydkkAwSlYRTbt4K+noNtCtpeHV8oC4rDmyAKya4x7chTLLkUmRRGCoQVsccVoneOD630O9RetoPoRVOFIlr0qeR+Z7jtYyGbxJ+FgP6oi+KEcQI5b0WI+833+GEIN/ZPbEFNzVEuejStwasgXd/fzIwiEQ0+bBjfXffMKEmS6Ey89qM2g7wQa2FAP93CsDtBCfWTqK09DbwBcBxsqkYMWLVC0WQMdljhQ4j4qrPfLfZFQDwiV0E/hNNcca7Ucp6ToYfzUuFB90+242VLddLNr+/2GuqTR1fBS0NHzyfWCMykvSZzSlQJ8didhE0osL5p7wT5TCQ7qcJEg730N5ZTbh+Q==
@@ -45,7 +45,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Data+Structures+/+Dictionaries
 status: Solved
-feedback:
-  message: Congratulations!
-  time: Tue, 30 Aug 2022 17:50:04 UTC
 record: -1

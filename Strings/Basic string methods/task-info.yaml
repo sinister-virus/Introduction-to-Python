@@ -4,13 +4,13 @@ files:
   visible: true
   placeholders:
   - offset: 131
-    length: 20
+    length: 3
     placeholder_text: ???
     initial_state:
       length: 3
       offset: 131
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: dhmgeFK4lWK0pYLoM7Y5rhpy5xq/+c6G7pknnWQ70EQ=
   encrypted_text: 65qTBzJxhsJNiRt1kC+yDNaEeD2PIcTxrjol+sTKBbQxCJfeYPQq0sS0Mc+1kkC3JoZb5WUj5WxDbyZrcIQuvXYaDx837mtXg+sl8ww2tDO7iy9VcONscPr4fWjEJO8LkdlqhegqesPRzFQlz9b80tsuKWKD476bNHpNEElBmWuQLbfB04T9QxyWYVBoGApD
@@ -25,7 +25,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Strings+/+Basic+String+Methods
 status: Solved
-feedback:
-  message: Congratulations!
-  time: Mon, 29 Aug 2022 16:55:17 UTC
 record: -1

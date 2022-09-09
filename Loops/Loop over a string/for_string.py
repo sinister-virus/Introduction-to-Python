@@ -5,7 +5,7 @@ for character in hello_world:    # Print each character from hello_world
 
 length = 0      # Initialize length variable
 
-for i in hello_world:
+# Iterate over the string.
     length += 1     # Add 1 to the length on each iteration to count the characters
 
 print(len(hello_world) == length)

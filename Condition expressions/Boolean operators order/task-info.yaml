@@ -4,13 +4,13 @@ files:
   visible: true
   placeholders:
   - offset: 110
-    length: 54
+    length: 5
     placeholder_text: '''???'''
     initial_state:
       length: 5
       offset: 110
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: 05tWlSAlFhaVB5FZCo0IMo95WpHcIQOglFoPFQRDrsmROt921JLB0kSqJui0hCtTePZo7/hg27VIxF9fxPhYxQ==
   encrypted_text: jTRA5ybceSpFBbSNeYml7LdMPCqD0t3O1+fPceh5sMV4q2gghmFtPmnUNNSUZj6muZPg+4fn5NrBb3U9+CxGGxbT1UvVOVZbrERdv2GErQmqKL8t3KHXj+rc2EFU69dHmBPESH0YoIwzWbXgBpZym1Y06ZrYAmZKEDri3SrlahQ=
@@ -25,7 +25,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Condition+Expressions+/+Boolean+Operators+Order
 status: Solved
-feedback:
-  message: Congratulations!
-  time: Wed, 31 Aug 2022 08:13:29 UTC
 record: -1

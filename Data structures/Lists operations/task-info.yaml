@@ -4,13 +4,13 @@ files:
   visible: true
   placeholders:
   - offset: 259
-    length: 61
+    length: 37
     placeholder_text: '# Replace "dino" with "dinosaur" here'
     initial_state:
       length: 37
       offset: 259
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: 6s1q3zweMokI8vfVCQu+6zZptV4kTa9L+NQZRDdG1QI=
   encrypted_text: ntrWTxybLwWXbhmXy2hxGlzal8HOI2mnYpEHv10/XBWxh/1K5MQ11cDOLXeGUqK8ZQYUssTLeP9/zxjALi5j7KePAG3qNm9c/GnQIIFdrNQNdjqGokrSnY4TYE/fEYJgqeSoJcPVLtSUjOz+098586BOkH/xhBhtRtR/RIZx6xGru7S1S5NMHA9Qq3XLVP0JjcXO5EEiBxH1BMEtr4woEG3UB2VeIsNf8vbqlTk1z8EKnAR4vFV9VjLLhcShl0BA6Zc2Gf8N69a72mXSZNPL8ZDJIQbGt6B4k5f9oGENIFlwK9rvyvI+VsGC5jeMOywG6ysa9eIZDB6/plzGJyqre4/fqLSUKyEDm3ZQ2oBR4sP4AXZd7wC4nf+dOeCHPGbkfzivg3c56NyI2YSO7l/CA3eeuB+ujt8w/cQfWlkB/fk=
@@ -25,7 +25,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Data+Structures+/+List+Operations
 status: Solved
-feedback:
-  message: Congratulations!
-  time: Tue, 30 Aug 2022 17:25:55 UTC
 record: -1

@@ -3,14 +3,14 @@ files:
 - name: dict_key_value.py
   visible: true
   placeholders:
-  - offset: 199
-    length: 19
+  - offset: 200
+    length: 3
     placeholder_text: ???
     initial_state:
       length: 3
       offset: 200
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: hk7mkcb5uKlVwJWVR8P8OCPR5zCdme/M16J7ymkqFcU=
   encrypted_text: y2g19yEMz2vRIDRUQu/aJ1XXAlqhbKuNuu96rPiYLXjlrofVGZaZCVj8jrTBeecPIfsxyt21PqLsXKiG53iCzNMp+TDJQmTzEB2OR9SYGtLQTVzWhi+zw53v3lGJ3VZ0LyreNl9ZaMmkvUXkPmFEyZQ88EfgvDRBjUQcB//Nql+VtiUgJ/KvefdvdpQprwBMwYr4quNtU5T69ZpNt0/EBbA1MhOzp1I+1Pb2pCoiXuqWzY+zsFKYDlDgPyD0iJ+w1m3zFA6e5hvqVggbHJgiIA==
@@ -25,7 +25,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Data+Structures+/+Dictionary+keys+and+values
 status: Solved
-feedback:
-  message: Congratulations!
-  time: Tue, 30 Aug 2022 17:55:09 UTC
 record: -1

@@ -4,13 +4,13 @@ files:
   visible: true
   placeholders:
   - offset: 172
-    length: 21
+    length: 26
     placeholder_text: '# Iterate over the string.'
     initial_state:
       length: 26
       offset: 172
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: aAFfcy0espifqQ8zc4YD5EC5+oYsEbarrApe9bpcIeU=
   encrypted_text: EKn/v7LssuCm1OxWTAmGCnp1MIjhUDF2ZQjMawxPHGkAepIFS3YfVL33P22007y+YQpjPow9xLATOo4Tk21VGixbfwmzzegwm17VvT5ekP5odCBB84kD5CbE0HgTxgJDebZjtqg9i1+TAONURVsCivtrMEA43saUo1Sb46w8mIrc8Ym+lNQaXgZekcug5HHGWkiWr+iUztg0UA/TCjQUHj3yrJ9gwHooiHiuvhAxrEy5pPGACefmb1hNjLYu+ygPoPQXKK18HenrXswVMoKsz2rgDiraHgTe0urNZOWwfR33tTqCoDXSAYVR1M8gGdQAVSlSw9/kh6dR8JZkcBnGLet8Kwaa0cKBJA6C77BxUfcs+qoP3eTzF1+NOeXSvhbs2DPAuetuk1RhhvKQ3+ptfTLVLjDdC1TSOfkDfMQtWbQ=
@@ -25,7 +25,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Loops+/+Loop+over+a+String
 status: Solved
-feedback:
-  message: Congratulations!
-  time: Wed, 31 Aug 2022 14:47:12 UTC
 record: -1

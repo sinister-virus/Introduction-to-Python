@@ -4,6 +4,10 @@ files:
   visible: false
   encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
   learner_created: false
+- name: tests/__init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
 - name: order.py
   visible: true
   placeholders:
@@ -18,10 +22,6 @@ files:
     status: Unchecked
     encrypted_possible_answer: 4tNnVg2IYnyCL8qZzfMXriBjyIbiv1+xt7GuvaDF4uY=
   encrypted_text: 6oJ6ggMYn5HW7a/w/QVEVu1wkyKcbZUshEf6tMBqtjkDklQmVjiSd3bcRsLPcpGxWag8UPsbTvZTeD7jBzjFmsHPv/gLj4fia12BtWgqZVMMcbtBRB9vETNjCiJ8WTRB50T3TUFtT2CIGGMelN4S6yzx6pQvjeuTdNoG4Z4pjlslnvDvbBhEinBlroIl+ByQtCK5UhvWwZo18u+vaPfdKgHf/mpXonOFdEUAHZi/DBKEYPXSLDc2JWZ+2JSDeZb6ckQFfvRZMiEleKzY83DIAg==
-  learner_created: false
-- name: tests/__init__.py
-  visible: false
-  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
   learner_created: false
 - name: tests/test_task.py
   visible: false

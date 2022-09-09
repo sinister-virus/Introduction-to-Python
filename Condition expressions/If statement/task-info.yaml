@@ -4,25 +4,25 @@ files:
   visible: true
   placeholders:
   - offset: 236
-    length: 16
+    length: 85
     placeholder_text: '# TODO: Write an if statement with a condition to check if
       the list `tasks` is empty.'
     initial_state:
       length: 85
       offset: 236
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: 4hThaZsUAs+TIu5PoNCUPSSjhzybT9Pid6SGRMzmWkY=
-  - offset: 319
-    length: 40
+  - offset: 388
+    length: 68
     placeholder_text: '# TODO: check if the list is empty now and print ''Now empty!''
       if so.'
     initial_state:
       length: 68
       offset: 388
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: koYoWi7r0Kv4kRa62j+BpNo6Vy960CWcT3NZ+TwjJd40nPW7SbrnoxdBApC1QJ+T
   encrypted_text: jTRA5ybceSpFBbSNeYml7LWD+llEEmpXQsTfW7P8oqyaG5qsbAZpugDbkQPAwOPfypXHqnLYgDnkoBrGZdIjrA389nfH8/nBYrJ0EDE2kRMM/YZM8AO05qVdczQvGJolMjiPepKyz3tBPb1+nbtMIkLvkkRRjJpYrcA7vB4TwT1/JJTHAajLwwoovEVz2Ca0KwRUo8+QhteuapYV3Wkw57kDFd+bPxcJ8BJo/SsodCdd0LfYNEeOPDLOncYc+XxQ5rY5ZBAi7zE2fVcQOd8iHaTJGPr56+TN4T1C+RH0Ow+jLCJw88I6m1OtQSocwMGAJZ9w0W67oK3eJqGwCn4+JtErdt/jAC4w6gU0ebJq3etThkYzHRjuUDwMv7NGSo8nh/1TG7TenkVHNhGf3YLge+Q6svrIXA/Lmb3+qdrB7ec0aaVIebzlPodLzW46wFipmMj7i85BzgNgsJUpk9yb1ErS+ALupifVCSOqMFyra8ZDMTfn2XPAhN3oyCU+pNLUO1ZNzRwYOM0pseVxajTEdE+qEj/F/SJlNPB4dUtJy0vnGcCE6+66zqQOm7Mu63qPHeuP8Qv+af5D2Ihz+FwvCDSLpNret1Y2apxTNeYK+WQ=
@@ -37,7 +37,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Condition+Expressions+/+If+Statement
 status: Solved
-feedback:
-  message: Congratulations!
-  time: Wed, 31 Aug 2022 08:20:55 UTC
 record: -1
