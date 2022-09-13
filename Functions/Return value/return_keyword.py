@@ -10,13 +10,13 @@ def fib(n):
     Return a list containing the Fibonacci series up to n."""
     result = []
     a = 1
-    b = # Assign an initial value to b
+    b = 1
     while a < n:
         result.append(a)
         tmp_var = b
-        # Update some value with a sum
-        # Restore a variable from the temp
-    # here we need to return the result to the caller
+        b=a+b
+        a=tmp_var
+    return result
 
 if __name__ == '__main__':
     print(fib(10))
