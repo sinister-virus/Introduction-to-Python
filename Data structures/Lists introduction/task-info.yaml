@@ -4,14 +4,14 @@ files:
     visible: true
     placeholders:
       - offset: 72
-        length: 3
+        length: 12
         placeholder_text: ???
         initial_state:
           length: 3
           offset: 72
         initialized_from_dependency: false
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
         encrypted_possible_answer: vSW9C0BiOoEWWUxpBjiycQ==
     encrypted_text: 2wbKfLqLledF05vgQmwVMZ4NQVKuCcEARmYXTs5bDpQddaRzdJUKadrSSzOi0xikRCgl9WkdvMCAFH/YHLgTvc9Yff1buglj6LSHlUS2HOI=
     learner_created: false
@@ -24,5 +24,8 @@ files:
     encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Data+Structures+/+Lists+Introduction
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 07 Jan 2024 15:08:05 UTC"
 record: -1

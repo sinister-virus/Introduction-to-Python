@@ -10,8 +10,8 @@ files:
           length: 8
           offset: 19
         initialized_from_dependency: false
-        selected: true
-        status: Solved
+        selected: false
+        status: Unchecked
         encrypted_possible_answer: chbWVbivddhwYzK5j0LqHQ==
     encrypted_text: /8eDqdYs4e3/Q6CJjMG4RxporxDEhK8lRf+z79O7wvI=
     learner_created: false
@@ -21,7 +21,4 @@ files:
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Variables+/+Undefined+Variable
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Sat, 06 Jan 2024 12:11:57 UTC"
 record: -1

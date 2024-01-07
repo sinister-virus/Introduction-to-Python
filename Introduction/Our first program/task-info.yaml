@@ -4,13 +4,13 @@ files:
     visible: true
     placeholders:
       - offset: 32
-        length: 7
+        length: 19
         placeholder_text: Type your name here
         initial_state:
           length: 19
           offset: 32
         initialized_from_dependency: false
-        selected: true
+        selected: false
         status: Solved
         encrypted_possible_answer: gNkWNun6UxgzwijWA9gTrw==
     encrypted_text: U2bKysx2iVhJVoO0IPvpnie+j+9tS66IdICGYvLPT0F8O4B5bhBk7hu7GElwKxeur2x2fZMyL+2bQKTjLFEKcA==
@@ -18,6 +18,6 @@ files:
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Introduction+/+Our+First+Program
 status: Solved
 feedback:
-  time: "Sat, 06 Jan 2024 12:08:00 UTC"
+  time: "Thu, 04 Jan 2024 17:52:34 UTC"
 record: -1
 post_submission_on_open: true

@@ -1,1 +1,1 @@
-print("Hello, world! My name is Pratham")
+print("Hello, world! My name is Type your name here")

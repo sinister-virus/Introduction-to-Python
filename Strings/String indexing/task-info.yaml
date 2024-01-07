@@ -10,8 +10,8 @@ files:
           length: 3
           offset: 101
         initialized_from_dependency: false
-        selected: true
-        status: Solved
+        selected: false
+        status: Unchecked
         encrypted_possible_answer: Uc0Guk5XEIejdtPx5dZnvA==
     encrypted_text: dBconN1efF941wppzTZUVjU2wV+vWkSXrxw+HG39S8RpbhOoQOz2Y2rgBgmhueTPCC1GPi7TGd93qyIuN/+NDo98KPOTgSfW9mBpA4mDnOK9PyLTkFAi4Tm00nJmTbNNO6wMYqg+pkhUwm8nxlGgiC3ZOwF6KxJhdJ1HxEidHjU=
     learner_created: false
@@ -25,7 +25,4 @@ files:
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Strings+/+String+Indexing
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Sat, 06 Jan 2024 12:30:25 UTC"
 record: -1

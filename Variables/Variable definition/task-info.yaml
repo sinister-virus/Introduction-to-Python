@@ -10,8 +10,8 @@ files:
           length: 3
           offset: 231
         initialized_from_dependency: false
-        selected: true
-        status: Solved
+        selected: false
+        status: Unchecked
         encrypted_possible_answer: 2fleudFYN6AcL8cKIBefEg==
       - offset: 337
         length: 7
@@ -20,8 +20,8 @@ files:
           length: 20
           offset: 339
         initialized_from_dependency: false
-        selected: true
-        status: Solved
+        selected: false
+        status: Unchecked
         encrypted_possible_answer: MLcncFemOCq1pOmRWXqSfg==
       - offset: 482
         length: 31
@@ -31,7 +31,7 @@ files:
           offset: 493
         initialized_from_dependency: false
         selected: false
-        status: Solved
+        status: Unchecked
         encrypted_possible_answer: TdhlonDmCffsG2FM8D8vaw==
     encrypted_text: TVXBUmKnUmX68RtSluE2+caq2HyHFGJXAJZ953uFTWDx0o/9U21gZPhqYyRs1Ks0Waspnin8BaNKzCRlDAHHPOx+vIR2PCdp9zT7UhlE+3uWK+qMBQ3kwbY1FhseHSe9o2yHjvt/yagzb+0U+eyrP/Z4tenhNrEcJPvwFDgOq+GZbyCcF+0q5Kyy/Pkw331RZJT/KsYPSM3gFV0IJ1io2GgtNr3SV9L5DH2ml5mxt6SuBpd4gBbpx/eCnKU+Oyd2P59j2vTiWAMxzBfuizFKLQTe+8f4ZaV5Qapsx9TUSjdHi6jNSoOIKArkgKtuIb5pu7H8xB/YdVaPon4YKWsyuWnXUrjPXeLTX5hm41EvhlciGgRJieFkgT05ZB+k9qzFI/JnssMTkkhw/qNCdz0oKnx5MZLj5E4JTbemUOE58xpvdVi4MRvdFc9rWlLURt3jRuHhX04H4+YikVDc4XyAT6GSirizCDW0DYCPDjNDCwy2vqy8UNgd7a36V1x/5yaxWvKmVR52zN/N6sZ8d7LjGs+N3H6gvIvcp3ss15qSxky2G6YxQQlIwn2/6cdeeKVIFOeoKBl1BQz0qNsiM7o9N1lVAcm3Olng/NxrbWvmYtTwqHMi1qa1EivJW9YfE+DcSoMRurz+LbiLqkWIfwP6P2ii6dLbijY8latiTl8n092UXqlOEbQx/yhKvAsTG1ZWVb34t1rSYAbTs38/CnTO2T80SQKXuivANniDohcDaJYQANUW6uLmgfBA+Z0t/BVs
     learner_created: false
@@ -41,7 +41,4 @@ files:
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Variables+/+Variable+Definition
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Sat, 06 Jan 2024 12:09:30 UTC"
 record: -1

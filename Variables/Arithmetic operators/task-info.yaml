@@ -10,8 +10,8 @@ files:
           length: 26
           offset: 54
         initialized_from_dependency: false
-        selected: true
-        status: Solved
+        selected: false
+        status: Unchecked
         encrypted_possible_answer: lGQxpA1+z52GAwFJDQSO/A==
       - offset: 85
         length: 8
@@ -20,8 +20,8 @@ files:
           length: 56
           offset: 103
         initialized_from_dependency: false
-        selected: true
-        status: Solved
+        selected: false
+        status: Unchecked
         encrypted_possible_answer: +e4pv0YAe10VViDxo4Fm6w==
       - offset: 119
         length: 17
@@ -30,8 +30,8 @@ files:
           length: 35
           offset: 185
         initialized_from_dependency: false
-        selected: true
-        status: Solved
+        selected: false
+        status: Unchecked
         encrypted_possible_answer: t43UqH5laWQWGEg+EbiH0s1XBCP9lvVooppvpg50Qgk=
       - offset: 156
         length: 40
@@ -40,8 +40,8 @@ files:
           length: 57
           offset: 240
         initialized_from_dependency: false
-        selected: true
-        status: Solved
+        selected: false
+        status: Unchecked
         encrypted_possible_answer: AWxCOVsmJb5hC+guvuNyoB3C4oNTysI9JnY5OXx84Z8h2ek9AdLzrOSTabWbOsx9
       - offset: 219
         length: 28
@@ -50,8 +50,8 @@ files:
           length: 60
           offset: 320
         initialized_from_dependency: false
-        selected: true
-        status: Solved
+        selected: false
+        status: Unchecked
         encrypted_possible_answer: H3IzrWV+lN8B/ro7s1CmTHWp25Tm6ZTQmdCqzAOGrSQ=
       - offset: 264
         length: 9
@@ -60,8 +60,8 @@ files:
           length: 41
           offset: 397
         initialized_from_dependency: false
-        selected: true
-        status: Solved
+        selected: false
+        status: Unchecked
         encrypted_possible_answer: e4XrUkwPs44lzYPqLX6Djg==
       - offset: 290
         length: 24
@@ -70,8 +70,8 @@ files:
           length: 51
           offset: 455
         initialized_from_dependency: false
-        selected: true
-        status: Solved
+        selected: false
+        status: Unchecked
         encrypted_possible_answer: AWxCOVsmJb5hC+guvuNyoAKsWZtufe9HFqDxWqFaIhI=
     encrypted_text: hfbkELl8Xo1LId/aahgBqBoB6nAH3udqvuXjgK/DTg4Dga+JiEhlKs5MgAo38Or+iD4+pDHkXDl/qmk+q0a1nJIKIhRlw7XyXOxDsUdZOTazgbGxArPfGGj3iJawHVCOGN5EOcjbxtGIHfZgnvbB8ozBWHMmY5HF2xt1KgLaMsGViTmmqK8qVekVL3JEOHJdIo3mu54hcUlxRd7sL14BAIDa2P8efnH032UCnmCzZFTp+fq2GG9wrLLKFUlBgBXvndL6xek0Vz5+f1rNDEoT4+VHYir6skIkm4vlKK0PavAemGUqdNTd293tdCkr41dxOe+ZncSm3ty1hrXXuEYTBnGiSlVJme2NHTHkN641Z7ZmfKIreokPoPVaJMzBXAK5/etIK0VZZUIDY+tteHhQVNndVYjEmV1NLUXCsLnyR2aqmZ81wnCe6lcv/0g9ddwvSdVbyuME/mEXFgKj7sSWeZEOII+a5ldl2GVMyPtFma2T4ORUrY42cFaOKOSZojFCQ5MxdIXriGzYrfOmObFsMXtqzf265SNO84Jw2Edjoxm2OXK1Fca6EH6JuBFrCeasMUTd1abyK+W5qijzpY3g1jedQGANGebrLbI0v/N7RyYywsNLHGcT6dcZ03fZTLuXblTqIYoPcZHdxJ3ZfxdcuzXLKUQ8TCaY7yPr5pJJ5DK+bMogaxqCDlgfvBhFFKKoP9spgJVmkJ/6C9y8ZZvxBYncgwXU4v1GHxYXWd8LyAg=
     learner_created: false
@@ -81,7 +81,4 @@ files:
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Variables+/+Arithmetic+Operators
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Sat, 06 Jan 2024 12:18:20 UTC"
 record: -1

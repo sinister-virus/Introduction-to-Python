@@ -10,8 +10,8 @@ files:
           length: 3
           offset: 129
         initialized_from_dependency: false
-        selected: true
-        status: Solved
+        selected: false
+        status: Unchecked
         encrypted_possible_answer: pFKTpgDBiCqxfvG+cg8GMw==
       - offset: 146
         length: 4
@@ -21,7 +21,7 @@ files:
           offset: 144
         initialized_from_dependency: false
         selected: false
-        status: Solved
+        status: Unchecked
         encrypted_possible_answer: eD6RWcHwM8xd6MkuqfGFHw==
     encrypted_text: C008tCpVbf2bWeQ85pv9mUazd9ZSWm+15LQsNsNTGkhiQWOfOb7PiOlUMvOumx839a/1kIDBZFexmAo3yy4/1xak+gfbsLyQcu3J1ZrkN+u1oosKCrmreifmhn+RincIbcUNkpOnW7/H14EbmQxHX0d6rf+O9TGUl9Z88tdYxrbewM1OcC84KkehYcx6FPes/FDk8N5S7+IVW+yGU0LQew==
     learner_created: false
@@ -35,7 +35,4 @@ files:
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Strings+/+String+Formatting
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Sat, 06 Jan 2024 12:46:23 UTC"
 record: -1
